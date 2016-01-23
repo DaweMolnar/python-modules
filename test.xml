@@ -1,5 +1,5 @@
 <doc>
   <section>
-    	<ssh host="XXX" user="xxx" pass="xxx"/>
+    <ssh host="****" user="****" pass="*****"/>
   </section>
 </doc>

@@ -1,6 +1,7 @@
+"""Singleton module"""
 import threading
 
-class Singleton:
+class Singleton(object):
     """
     A thread-safe helper class to ease implementing singletons.
     This should be used as a decorator -- not a metaclass -- to the
