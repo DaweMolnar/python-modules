@@ -1,0 +1,5 @@
+<doc>
+  <section>
+    	<ssh host="XXX" user="xxx" pass="xxx"/>
+  </section>
+</doc>
